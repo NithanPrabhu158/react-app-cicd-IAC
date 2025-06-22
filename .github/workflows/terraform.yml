@@ -1,4 +1,4 @@
-name: Cloudcore IAC
+name: Quiz-app IAC
 
 on:
     push:

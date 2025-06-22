@@ -3,7 +3,7 @@ name: Quiz-app IAC
 on:
     push:
       branches: 
-        - main
+        - "main"
       paths: 
         - terraform/**
     pull_request:
